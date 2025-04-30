@@ -24,7 +24,7 @@ This is a prototype web application that predicts salaries using a custom-traine
 ### Installation Steps
 1. Clone the repository
    ```
-   git clone https://github.com/anil66k4/prct1.git
+   git clone https://github.com/Sree0503/Salary-Predictor
    ```
 
 2. Create a virtual environment
@@ -72,8 +72,3 @@ The model considers the following inputs:
 
 
 
-## License
-[Specify your license or mark as private project]
-
-## Contact
-[Your Contact Information]
